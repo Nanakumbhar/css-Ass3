@@ -1,0 +1,119 @@
+.body{
+    background-color: gray;
+}
+ .box1{
+     height: 150px;
+     width: 400px;
+     padding-top: 20px;
+     line-height:35px ;
+     border: 5px solid red;
+     background-color: white;
+     border-radius: 20px;
+     box-shadow: 5px 5px blueviolet;
+     text-shadow:1px 1px red ;
+     text-align: center;
+     position: relative;
+    left: 540px;
+    ;
+ }
+ .container1{
+      height:500px;
+      width:100%vw;
+      border:5px solid green;
+      
+ }
+ .test1{
+    height: 200px;
+     width: 200px;
+     border: 5px solid red;
+     background-color: white;
+     border-radius: 20px;
+     box-shadow: 5px 5px blueviolet;
+     text-shadow:1px 1.5px blueviolet ;
+     text-align: center;
+     line-height: 35px;
+     padding-top: 20px;
+     position: relative;
+    
+ }
+ .test2{
+    height: 200px;
+    width: 200px;
+    border: 5px solid red;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px blueviolet;
+    margin-right: 100px;
+ 
+    ;
+ }
+ .test3{
+    height: 200px;
+     width: 200px;
+     border: 5px solid red;
+     background-color: white;
+     border-radius: 20px;
+     box-shadow: 5px 5px blueviolet;
+     text-shadow:1px 1.5px red ;
+     text-align: center;
+    line-height: 30px;
+    padding-top: 10px;
+     position: relative; 
+ }
+ .test4{
+    height: 200px;
+    width: 200px;
+    border: 5px solid red;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 5px 5px blueviolet;
+    text-shadow:1px 1.5px blueviolet ;
+    text-align: center;
+    
+    margin-right: 100px;
+    position: relative;
+ }
+ .test5{
+    height: 80px;
+     width: 400px;
+     color: red;
+     border: 5px solid red;
+     background-color:greenyellow;
+     border-radius: 20px;
+     box-shadow: 5px 5px blueviolet;
+     text-align: center;
+     line-height: 25px;
+     position: fixed;
+     bottom: 50px;
+     left: 550px;
+     display: flex;
+     justify-content: space-around;
+     padding-top: 20px;
+     
+ }
+ .container2{
+height: 500px;
+width: 700px;
+background-color: green;
+text-align: center;
+border: 5px solid blueviolet;
+margin-left: 400px;
+ }
+ .container3{
+    display: flex;
+    justify-content: space-between;
+ }
+ .test6{
+    height:200px;
+    width:345px;
+    background-color: skyblue;
+    font-weight: normal;
+    line-height: 30px;
+ }
+ .test7{
+    height:215px;
+    width:700px;
+    background-color: skyblue;
+    font-weight: normal;
+    line-height: 30px;
+ }
